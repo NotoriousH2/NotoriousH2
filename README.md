@@ -11,7 +11,7 @@ Business Inquiry: NotoriousH2@snu.ac.kr
 <br>
 
 - 현재 프리랜서 강사로 활동하며 인공지능과 데이터분석 강의를 진행하고 있습니다. 
-- 삼성전자, 현대 등 유수 대기업의 Digital Transformation, AI 역량 강화를 위한 강의를 진행하였습니다. 
+- 삼성전자, HD현대 등 유수 기업의 Digital Transformation, AI 역량 강화를 위한 강의를 진행하였습니다. 
 - 비전공자 대상 Python 데이터 전처리, 분석부터 AI 입문자/숙련자를 위한 AI 이론 및 실습 과정, ChatGPT 업무 적용을 위한 실무 강의 가능합니다. 
 - 아래 이력을 참고해 주세요.
 
