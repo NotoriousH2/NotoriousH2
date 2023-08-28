@@ -5,6 +5,7 @@ Business Inquiry: NotoriousH2@snu.ac.kr
 
 ## 📘 Bio
 
+- 2010.2 경기과학고등학교 조기졸업
 - 2016.2 한국과학기술원 전산학부 학사
 - 2023.2 서울대학교 컴퓨터공학부 박사
 <br>
