@@ -32,7 +32,12 @@ Business Inquiry: NotoriousH2@snu.ac.kr
     - **머신러닝/ 딥러닝 기초**
     - **ChatGPT를 활용한 업무 생산성 향상**
     - **현업 데이터를 활용한 인공지능 프로젝트 <br>**
+ 
+      
+## 💻 Ongoing Project
+- LangChain과 VectorDB를 이용한 LLM 플러그인 개발 
 
+  
 ## 📖 Publication
 
 - Aspect-Oriented Unsupervised Social Link Inference on User Trajectory (주저자)
