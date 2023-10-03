@@ -11,7 +11,7 @@ Business Inquiry: NotoriousH2@snu.ac.kr
 <br>
 
 - 현재 인공지능과 데이터분석 강의를 진행하고 있습니다. 
-- 삼성전자, HD현대 등 유수 기업의 Digital Transformation, AI 역량 강화를 위한 강의를 진행하였습니다. 
+- 삼성전자와 HD현대 등에서 Digital Transformation, AI 역량 강화를 위한 강의를 진행하였습니다. 
 - AI 입문자/숙련자를 위한 AI 전 분야와 LLM 기반 어플리케이션 개발부터, 비전공자 대상 Python 데이터 전처리, 분석 강의도 진행 가능합니다. 
 - 아래 이력을 참고해 주세요.
 
