@@ -68,4 +68,4 @@ Business Inquiry: NotoriousH2@snu.ac.kr
 
 ## Others
 [직피티 : 직장인을 위한 한국어(Korean) 이메일 & 메신저 & 상담 GPT](https://gptstore.ai/gpts/SkD9xe3_G8-jigpiti-jigjangineul-wihan-hangugeo-korean-gpt)   
-[거의 모든 것의 매뉴얼(Manual for Everything)](https://gptstore.ai/gpts/tfAenAASH-manuals-for-everything-geoyi-modeun-geosyi-maenyueol)
+[거의 모든 것의 매뉴얼(Manual for Nearly Everything)](https://gptstore.ai/gpts/tfAenAASH-manuals-for-everything-geoyi-modeun-geosyi-maenyueol)
