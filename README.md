@@ -44,7 +44,7 @@ Business Inquiry: NotoriousH2@snu.ac.kr
  
       
 ## 💻 Ongoing Project
-- LangChain과 VectorDB를 이용한 LLM 플러그인 개발 
+- 
 
   
 ## 📖 Publication
