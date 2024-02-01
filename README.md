@@ -22,10 +22,10 @@ Business Inquiry: NotoriousH2@snu.ac.kr
 - 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
 - 멀티캠퍼스 AI/자연어처리 고급 과정 강사
     - <LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지> (2023.12)
-    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2024.2 예정)
+    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2024.2.14-16, 2.26-28, 5.8-10)
  
-    - <파인 튜닝으로 도메인에 특화된 sLLM 개발 (가제)> (2024. 예정)
-    - <멀티모달 AI의 이해(가제)> (2024. 예정)
+    - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)** (2024.7.15-19)
+    - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)** (2024.4.25)
 
 - 과학기술정보통신부-정보통신산업진흥원 주관 산업전문인력 AI 역량 강화 사업 강의(2023-)
     - **거대 언어 생성 모델(LLM)을 활용한 현장 매뉴얼 가이드 챗봇 <br>**
