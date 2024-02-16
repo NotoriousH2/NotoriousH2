@@ -17,22 +17,24 @@ Business Inquiry: NotoriousH2@snu.ac.kr
 - 2023.2 서울대학교 컴퓨터공학부 박사 졸업
 <br>
 
-- LLM 기반의 개발, 인공지능과 데이터분석 강의를 진행하고 있습니다. 
-- 삼성전자와 HD현대 등에서 Digital Transformation, AI 역량 강화를 위한 강의를 진행하였습니다. 
-- ChatGPT/LLM의 활용법과 파인 튜닝을 비롯한 개발 기술, AI 입문자/숙련자를 위한 AI 전 분야와 비전공자 대상 Python 데이터 전처리, 분석 강의도 진행 가능합니다. 
-- 아래 이력을 참고해 주세요.
+**생성형 AI의 활용법과 최신 트렌드에 대한 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
+- 이전의 강의 이력은 아래를 참고해 주세요.
 
 ## 🎒Courses & Activities
 
 - 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
 - 멀티캠퍼스 AI/자연어처리 고급 과정 강사
     - <LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지> (2023.12)
-    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2024.2.14-16, 2.26-28, 5.8-10)
+    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2024.2.14-16, 2.26-28)
+    - 4, 5, 6, 8, 10월 추가 개강 예정
  
-    - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)** (2024.7.15-19)
+    - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)** 
+    - 6, 7, 10, 11월 추가 개강 예정
+      
     - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)** (2024.4.25)
+    - 6, 12월 추가 개강 예정
 
-- 과학기술정보통신부-정보통신산업진흥원 주관 산업전문인력 AI 역량 강화 사업 강의(2023-)
+- HD현대 : 과학기술정보통신부-정보통신산업진흥원 주관 산업전문인력 AI 역량 강화 사업 강의(2023-)
     - **거대 언어 생성 모델(LLM)을 활용한 현장 매뉴얼 가이드 챗봇 <br>**
 - 삼성전자-패스트캠퍼스 Citizen Developer 과정 교육 (2023.05-)
     - **Python 데이터 전처리 <br>**
