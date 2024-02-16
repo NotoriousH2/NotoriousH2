@@ -18,16 +18,16 @@ Business Inquiry: NotoriousH2@snu.ac.kr
 - 2016.2 한국과학기술원 전산학부 학사 졸업 (부전공: 수리과학부)
 - 2023.2 서울대학교 컴퓨터공학부 박사 졸업
 <br>
-
-
+- 저는 LLM 어플리케이션/서비스 개발 기술과 생성 AI 활용에 대한 강의를 주로 진행하고 있습니다. 
+- 파인 튜닝을 비롯한 모델 성능 향상 방법, 일반 AI 전 분야에 대한 강의와 비전공자 대상의 Python 데이터 전처리, 분석 강의도 진행합니다.
 - 이전의 강의 이력은 아래를 참고해 주세요.
 
 ## 🎒Courses & Activities
 
 - 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
 - 멀티캠퍼스 AI/자연어처리 고급 과정 강사
-    - <LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지> (2023.12)
-    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2024.2.14-16, 2.26-28)
+    - <LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지> (2023-2024)
+    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2023: 12.10-12, 2024: 2.14-16, 2.26-28)
     - 4, 5, 6, 8, 10월 추가 개강 예정
  
     - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)** 
