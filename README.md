@@ -10,6 +10,8 @@
 
 Business Inquiry: NotoriousH2@snu.ac.kr
 
+**생성형 AI의 활용법과 최신 트렌드에 대한 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
+
 ## 📘 Bio
 
 - 2010.2 경기과학고등학교 조기졸업
@@ -17,7 +19,7 @@ Business Inquiry: NotoriousH2@snu.ac.kr
 - 2023.2 서울대학교 컴퓨터공학부 박사 졸업
 <br>
 
-**생성형 AI의 활용법과 최신 트렌드에 대한 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
+
 - 이전의 강의 이력은 아래를 참고해 주세요.
 
 ## 🎒Courses & Activities
