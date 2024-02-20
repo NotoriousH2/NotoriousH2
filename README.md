@@ -25,6 +25,10 @@ LLM 어플리케이션/서비스 개발 기술과 파인 튜닝을 비롯한 모
 ## 🎒Courses & Activities
 
 - 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
+- 신한금융투자 - 생성형 AI 모델 R&D 기반 구성 수행 강의 (2024)
+- 삼성SDS - LLM 프로그래밍 강의 (2024)
+- SK Telecom - AI Literacy  Program 강의 (2024)
+  
 - 멀티캠퍼스 AI/자연어처리 고급 과정 강사
     - <LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지> (2023-2024)
     - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2023: 12.10-12, 2024: 2.14-16, 2.26-28)
