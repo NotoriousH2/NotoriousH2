@@ -56,7 +56,7 @@ LLM 어플리케이션/서비스 개발 기술과 파인 튜닝을 비롯한 모
  
       
 ## 💻 Ongoing Project
-- [생성 AI를 이용한 마케팅 문구 생성기](https://notolab.64bit.kr/chat/)
+- [Streamlit을 이용한 마케팅 문구 생성 앱](https://notolab.64bit.kr/chat/)
 
   
 ## 📖 Publication
