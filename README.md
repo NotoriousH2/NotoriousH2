@@ -24,13 +24,6 @@ LLM 어플리케이션/서비스 개발 기술과 파인 튜닝을 비롯한 모
 
 ## 🎒Courses & Activities
 
-- 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
-- 삼성SDS - LLM 프로그래밍 강의 (2024-) <br>
-- SK Telecom - AI Literacy  Program 강의 (2024-) <br>
-- 신한금융투자 - 생성형 AI 모델 R&D 기반 구성 수행 강의 (2024-) <br>
-- 중소기업벤처진흥공단 스타트업 AI기술인력 양성(이어드림 스쿨) 멘토
-    - 프로젝트 과제 개발 자문
-  
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
     - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2023: 12.10-12, 2024: 2.14-16, 2.26-28)
     - 4, 5, 6, 8, 10월 추가 개강 예정
@@ -40,6 +33,15 @@ LLM 어플리케이션/서비스 개발 기술과 파인 튜닝을 비롯한 모
       
     - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)** (2024.4.25)
     - 6, 12월 추가 개강 예정
+
+- 삼성SDS - LLM 프로그래밍 강의 (2024-) <br>
+- SK Telecom - AI Literacy  Program 강의 (2024-) <br>
+- 신한금융투자 - 생성형 AI 모델 R&D 기반 구성 수행 강의 (2024-) <br>
+- 중소기업벤처진흥공단 스타트업 AI기술인력 양성(이어드림 스쿨) 멘토
+    - 프로젝트 과제 개발 자문
+- 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
+ 
+
 
 - HD현대 : 과학기술정보통신부-정보통신산업진흥원 주관 산업전문인력 AI 역량 강화 사업 강의(2023-)
     - **거대 언어 생성 모델(LLM)을 활용한 현장 매뉴얼 가이드 챗봇 <br>**
