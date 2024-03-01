@@ -28,6 +28,8 @@ LLM 어플리케이션/서비스 개발 기술과 파인 튜닝을 비롯한 모
 - 삼성SDS - LLM 프로그래밍 강의 (2024-) <br>
 - SK Telecom - AI Literacy  Program 강의 (2024-) <br>
 - 신한금융투자 - 생성형 AI 모델 R&D 기반 구성 수행 강의 (2024-) <br>
+- 중소기업벤처진흥공단 스타트업 AI기술인력 양성(이어드림 스쿨) 멘토
+    - 프로젝트 과제 개발 자문
   
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
     - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2023: 12.10-12, 2024: 2.14-16, 2.26-28)
