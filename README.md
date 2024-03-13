@@ -1,6 +1,5 @@
 # 변형호(Hyungho Byun) 
 
-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
 
 
 
