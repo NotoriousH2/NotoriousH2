@@ -9,6 +9,11 @@
 
 Business Inquiry: NotoriousH2@snu.ac.kr
 
+
+
+[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224/)
+
+
 **생성형 AI의 활용법과 최신 트렌드, 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
 
 ## 📘 Bio
