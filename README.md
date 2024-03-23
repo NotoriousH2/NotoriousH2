@@ -29,7 +29,7 @@ LLM 어플리케이션/서비스 개발 기술과 파인 튜닝을 비롯한 모
 ## 🎒Courses & Activities
 
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
-    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011X&corsYr=2024&corsDgrCd=10101)** (2023: 12.10-12, 2024: 2.14-16, 2.26-28)
+    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106)** (2023: 12.10-12, 2024: 2.14-16, 2.26-28)
     - 4, 5, 6, 8, 10월 추가 개강 예정
  
     - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)** 
