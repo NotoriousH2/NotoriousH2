@@ -30,13 +30,8 @@ LLM 어플리케이션/서비스 개발 기술과 파인 튜닝을 비롯한 모
 
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
     - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106)** 
-    - 4, 5, 6, 8, 10월 추가 개강 예정
- 
     - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)** 
-    - 6, 7, 10, 11월 추가 개강 예정
-      
     - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)**
-    - 6, 12월 추가 개강 예정
 
 - 삼성SDS - LLM 프로그래밍 강의 (2024-) <br>
 - SK Telecom - AI Literacy  Program 강의 (2024) <br>
