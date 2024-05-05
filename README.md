@@ -7,14 +7,14 @@
 ![](https://komarev.com/ghpvc/?username=NotoriousH2)
 
 
-Business Inquiry: NotoriousH2@snu.ac.kr
+Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 
 
 
 [Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224/)
 
 
-**생성형 AI의 활용법과 최신 트렌드, 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
+**생성 AI의 최신 트렌드, 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
 
 ## 📘 Bio
 
@@ -34,12 +34,20 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)**
 
 - 한국앤컴퍼니 생성형AI 활용 교육 (2024.05-2024.06)
-- 한전KDN 멀티모달 AI 교육 (2024.05)
 - GS그룹 LLM 프로그래밍 심화 교육 (2024.05)
-- HL그룹 GPT 활용 교육 (2024.05-2024.07)
+    - **LLM 파인튜닝 및 sLLM 개발<br>**
+    - **RAG 성능 고도화 방법**
+    - **효과적인 LLM 어플리케이션 서빙하기**
+
+- 한전KDN 멀티모달 AI 교육 (2024.05)
+- HL그룹 생성형AI 활용 교육 (2024.05-2024.07)
   
 
 - 삼성SDS - LLM 프로그래밍 강의 (2024-) <br>
+    - **OpenAI API와 Assistant 활용법<br>**
+    - **LangChain과 LCEL(LangChain Expression Language) 개발**
+      
+
 - SK Telecom - AI Literacy  Program 강의 (2024) <br>
     - **ChatGPT와 LLM 파인튜닝 <br>**
     - **LangChain 심화<br>**
@@ -70,7 +78,7 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - **설비 센서 데이터를 활용한 나노/탄소 소재 생산공정 설비 이상 예측**
     - **머신러닝을 활용한 소재·부품 생산공정 최적화**
     - **나노/탄소 잉크기반 잉크젯 공정 라인두께 예측 <br>**
-- 삼성전자 신입사원 Digital Transformation 교육 (2023.02-)
+- 삼성전자 신입사원 Digital Transformation 교육 (2023.02-2024.04)
     - **Python을 이용한 데이터분석 및 시각화**
     - **머신러닝/ 딥러닝 기초**
     - **ChatGPT를 활용한 업무 생산성 향상**
