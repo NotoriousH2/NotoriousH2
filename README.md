@@ -27,10 +27,17 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 
 ## 🎒Courses & Activities
 
+### 2024
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
     - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106)**
     - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)**
     - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)**
+
+- 한국앤컴퍼니 생성형AI 활용 교육 (2024.05-2024.06)
+- 한전KDN 멀티모달 AI 교육 (2024.05)
+- GS그룹 LLM 프로그래밍 심화 교육 (2024.05)
+- HL그룹 GPT 활용 교육 (2024.05-2024.07)
+  
 
 - 삼성SDS - LLM 프로그래밍 강의 (2024-) <br>
 - SK Telecom - AI Literacy  Program 강의 (2024) <br>
@@ -46,13 +53,13 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - **Python을 이용한 데이터분석 및 시각화**
     - **ChatGPT와 LangChain을 활용한 업무 생산성 향상**
     - **SQL 데이터베이스**
-    
+
 - 중소기업벤처진흥공단 스타트업 AI기술인력 양성(이어드림 스쿨) 멘토
     - 프로젝트 과제 개발 자문
 - 현대엘리베이터 LLM 세미나 'AI와 IT 기술 트렌드' (2024)
-- 
---- 
 
+--- 
+### 2023
 
 - HD현대 : 과학기술정보통신부-정보통신산업진흥원 주관 산업전문인력 AI 역량 강화 사업 강의(2023)
     - **거대 언어 생성 모델(LLM)을 활용한 현장 매뉴얼 가이드 챗봇 <br>**
