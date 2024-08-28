@@ -34,10 +34,12 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)**
     - **[<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101)** 
       
-
 - 국가보안기술연구소 LLM 개발 기술 자문 
     - **Agentic Work 자동화 프로젝트**
-      
+
+- KT AI 연구소 세미나 (2024.08)
+      - **2024 ACL Conference 리뷰 및 Hands-on Session**
+  
 - 아주대학교 ChatGPT 활용 교육 (2024.08) 
 - 신세계디에프 생성형AI 활용 교육 (2024.07-)
 - 한국앤컴퍼니 생성형AI 활용 교육 (2024.05-2024.06)
