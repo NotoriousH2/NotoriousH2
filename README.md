@@ -33,12 +33,19 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)**
     - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)**
     - **[<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101)** 
-      
-- 국가보안기술연구소 LLM 개발 기술 자문 
+
+
+- 삼성전자 AI Essential 과정 (2024-)
+    - **AI 트렌드 세미나**
+- 국가보안기술연구소 LLM 개발 기술 자문 (2024-)
     - **Agentic Work 자동화 프로젝트**
+
+- 국가보안기술연구소 LLM 교육 (2024.09)
+    - **Large Language Model과 보안**
 
 - KT AI 연구소 세미나 (2024.08)   
     - **2024 ACL Conference 리뷰 및 Hands-on Session**
+    - **2024 Microsoft AI Research 리뷰 및 Hands-on Session**
   
 - 아주대학교 ChatGPT 활용 교육 (2024.08) 
 - 신세계디에프 생성형AI 활용 교육 (2024.07-)
@@ -48,7 +55,10 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - **RAG 성능 고도화 방법**
     - **효과적인 LLM 어플리케이션 서빙하기**
 
-- 한전KDN 멀티모달 AI 교육 (2024.05)
+- 한전KDN LLM/AI 교육 (2024)
+    - **프롬프트 엔지니어링과 OpenAI API**
+    - **LangChain을 이용한 어플리케이션 만들기**
+    - **멀티모달 모델 이해하기**
 - HL그룹 생성형AI 활용 교육 (2024.05-2024.07)
   
 
