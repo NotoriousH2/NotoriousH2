@@ -35,44 +35,47 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - **[<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101)** 
 
 
-- 삼성전자 AI Essential 과정 (2024-)
+- 삼성전자 AI Essential 과정
     - **AI 트렌드 세미나**
-- 국가보안기술연구소 LLM 개발 기술 자문 (2024-)
+- 국가보안기술연구소 LLM 개발 기술 자문
     - **Agentic Work 자동화 프로젝트**
 
-- 국가보안기술연구소 LLM 교육 (2024.09)
+- 국가보안기술연구소 LLM 교육
     - **Large Language Model과 보안**
 
-- KT AI 연구소 세미나 (2024.08)   
+- KT AI 연구소 세미나    
     - **2024 ACL Conference 리뷰 및 Hands-on Session**
     - **2024 Microsoft AI Research 리뷰 및 Hands-on Session**
-  
-- 아주대학교 ChatGPT 활용 교육 (2024.08) 
-- 신세계디에프 생성형AI 활용 교육 (2024.07-)
-- 한국앤컴퍼니 생성형AI 활용 교육 (2024.05-2024.06)
-- GS그룹 LLM 프로그래밍 심화 교육 (2024.05)
+
+- 삼성SDS - LLM 프로그래밍 강의  <br>
+    - **OpenAI API와 Assistant 활용법<br>**
+    - **LangChain과 LCEL(LangChain Expression Language) 개발**
+
+- 한전KDN LLM/AI 교육 
+    - **프롬프트 엔지니어링과 OpenAI API**
+    - **LangChain을 이용한 어플리케이션 만들기**
+    - **멀티모달 모델 이해하기**
+
+- SK Telecom - AI Literacy  Program 강의  <br>
+    - **ChatGPT와 LLM 파인튜닝 <br>**
+    - **LangChain 심화<br>**
+
+- 신한금융투자 - 생성형 AI 모델 R&D 기반 구성 수행 강의 <br>
+    - **금융 데이터 파인 튜닝 LLM<br>**
+    - **생성AI 기반 마케팅 문구 생성 및 영상 요약 어플리케이션<br>**
+      
+
+- GS그룹 LLM 프로그래밍 심화 교육
     - **LLM 파인튜닝 및 sLLM 개발<br>**
     - **RAG 성능 고도화 방법**
     - **효과적인 LLM 어플리케이션 서빙하기**
 
-- 한전KDN LLM/AI 교육 (2024)
-    - **프롬프트 엔지니어링과 OpenAI API**
-    - **LangChain을 이용한 어플리케이션 만들기**
-    - **멀티모달 모델 이해하기**
-- HL그룹 생성형AI 활용 교육 (2024.05-2024.07)
   
+- 아주대학교 ChatGPT 활용 교육  
+- 신세계디에프 생성형AI 활용 교육 
+- 한국앤컴퍼니 생성형AI 활용 교육 
 
-- 삼성SDS - LLM 프로그래밍 강의 (2024-) <br>
-    - **OpenAI API와 Assistant 활용법<br>**
-    - **LangChain과 LCEL(LangChain Expression Language) 개발**
-      
-
-- SK Telecom - AI Literacy  Program 강의 (2024) <br>
-    - **ChatGPT와 LLM 파인튜닝 <br>**
-    - **LangChain 심화<br>**
-- 신한금융투자 - 생성형 AI 모델 R&D 기반 구성 수행 강의 (2024-) <br>
-    - **금융 데이터 파인 튜닝 LLM<br>**
-    - **생성AI 기반 마케팅 문구 생성 및 영상 요약 어플리케이션<br>**
+- HL그룹 생성형AI 활용 교육
   
 - 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
 
@@ -83,7 +86,7 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 
 - 중소기업벤처진흥공단 스타트업 AI기술인력 양성(이어드림 스쿨) 멘토
     - 프로젝트 과제 개발 자문
-- 현대엘리베이터 LLM 세미나 'AI와 IT 기술 트렌드' (2024)
+- 현대엘리베이터 LLM 세미나 'AI와 IT 기술 트렌드'
 
 --- 
 ### 2023
