@@ -28,16 +28,31 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 
 ## 🎒Courses & Activities
 
-### 2024
+### 2025
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
     - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106)**
     - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)**
-    - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)**
-    - **[<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101)** 
+    - **[<LLM 마스터, LangGraph로 AI Agent 개발하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA01BG&corsYr=2025&corsDgrCd=10101)**
 
+    - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)**
+    - **[<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101)**
+
+
+- **패스트캠퍼스 온라인 강의 제작**
+    - **[<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph)**
 
 - 삼성전자 AI Essential 과정
     - **AI 트렌드 세미나**
+
+- 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
+
+- 삼성SDS - LLM 프로그래밍 강의(2024~)  <br>
+    - **OpenAI API와 Assistant 활용법<br>**
+    - **LangChain과 LCEL(LangChain Expression Language) 개발**
+    - **Retrieval Augmented Generation (RAG)**
+      
+
+### 2024
 - 국가보안기술연구소 LLM 개발 기술 자문
     - **Agentic Work 자동화 프로젝트**
 
@@ -78,7 +93,6 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 
 - HL그룹 생성형AI 활용 교육
   
-- 두피디아 정보과학/인공지능 분야 집필진 (2023.06-)   <br>
 
 - 삼성전자 신입사원 Digital Transformation 교육 (2024.03-2024.04)
     - **Python을 이용한 데이터분석 및 시각화**
