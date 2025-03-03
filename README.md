@@ -22,7 +22,9 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 <br>
 LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법에 대한 강의를 주로 진행하고 있습니다.      <br>
 일반 AI 전 분야에 대한 강의와 비전공자 대상의 Python 데이터 전처리, 분석 강의도 진행합니다.      <br>
-**[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224)** 에서 최신 기술과 연구 동향도 공유합니다. <br>
+
+
+**[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224)**
 
 ## 🎒Courses & Activities
 
