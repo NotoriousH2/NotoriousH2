@@ -31,6 +31,7 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
 
     - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106)**
+
     - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)**
 
     - **[<LLM 마스터, LangGraph로 AI Agent 개발하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA01BG&corsYr=2025&corsDgrCd=10101)**
@@ -48,11 +49,10 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 
 
 - **멀티캠퍼스 이러닝 강의 제작**
-  - [<LLM과 LangChain을 이용한 RAG 어플리케이션 개발>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH1&corsYr=2020&corsDgrCd=10001){target="_blank"}
-  - [<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001){target="_blank"}
-  - [<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001){target="_blank"}
+  - **[<LLM과 LangChain을 이용한 RAG 어플리케이션 개발>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH1&corsYr=2020&corsDgrCd=10001)**
+  - **[<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001)**
+  - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
  
-    - 
 - 삼성전자 AI Essential 과정
     - **AI 트렌드 세미나**
 
