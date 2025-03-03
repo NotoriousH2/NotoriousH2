@@ -2,8 +2,6 @@
 
 
 
-
-
 ![](https://komarev.com/ghpvc/?username=NotoriousH2)
 
 
@@ -32,63 +30,22 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
 
-    - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106" target="_blank">LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지</a>**
-    
-    - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101" target="_blank">LLM 파인튜닝 마스터, sLLM 만들기</a>**
-    
-    - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA01BG&corsYr=2025&corsDgrCd=10101" target="_blank">LLM 마스터, LangGraph로 AI Agent 개발하기</a>**
-    
-    - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101" target="_blank">1Day LMM(Large Multimodal Model) 이해하기</a>**
-    
-    - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101" target="_blank">주요 예제로 배우는 LLM 어플리케이션 응용 기술</a>**
-    
+    - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106)**
+    - **[<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101)**
 
+    - **[<LLM 마스터, LangGraph로 AI Agent 개발하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA01BG&corsYr=2025&corsDgrCd=10101)**
+
+
+
+    - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101)**
+
+    - **[<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101)**
+    
 
 
 - **패스트캠퍼스 온라인 강의 제작**
     - **[<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph)**
 
-
-- **멀티캠퍼스 이러닝 변형호(Hyungho Byun) 
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=NotoriousH2)
-
-
-Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
-
-
-
-[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224/)
-
-
-**생성 AI의 최신 트렌드, 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
-
-## 📘 Bio
-
-- 2010.2 경기과학고등학교 조기졸업
-- 2016.2 한국과학기술원 전산학부 학사 졸업 (부전공: 수리과학부)
-- 2023.2 서울대학교 컴퓨터공학부 박사 졸업
-<br>
-LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법에 대한 강의를 주로 진행하고 있습니다.      <br>
-일반 AI 전 분야에 대한 강의와 비전공자 대상의 Python 데이터 전처리, 분석 강의도 진행합니다.      <br>
-[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224/) 에서 최신 기술과 연구 동향도 공유합니다. <br>
-
-## 🎒Courses & Activities
-
-### 2025
-- **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
-  - [<LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106){target="_blank"}
-  - [<LLM 파인튜닝 마스터, sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101){target="_blank"}
-  - [<LLM 마스터, LangGraph로 AI Agent 개발하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA01BG&corsYr=2025&corsDgrCd=10101){target="_blank"}
-  - [<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101){target="_blank"}
-  - [<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101){target="_blank"}
-
-- **패스트캠퍼스 온라인 강의 제작**
-  - [<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph){target="_blank"}
 
 - **멀티캠퍼스 이러닝 강의 제작**
   - [<LLM과 LangChain을 이용한 RAG 어플리케이션 개발>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH1&corsYr=2020&corsDgrCd=10001){target="_blank"}
