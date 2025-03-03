@@ -33,10 +33,15 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 - **멀티캠퍼스 AI/자연어처리 고급 과정 강사**
 
     - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013V&corsYr=2024&corsDgrCd=10106" target="_blank">LLM 파인튜닝 마스터, 생성형 AI 기초부터 PEFT까지</a>**
+    
     - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA014B&corsYr=2024&corsDgrCd=10101" target="_blank">LLM 파인튜닝 마스터, sLLM 만들기</a>**
+    
     - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA01BG&corsYr=2025&corsDgrCd=10101" target="_blank">LLM 마스터, LangGraph로 AI Agent 개발하기</a>**
+    
     - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2024&corsDgrCd=10101" target="_blank">1Day LMM(Large Multimodal Model) 이해하기</a>**
+    
     - **<a href="https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2024&corsDgrCd=10101" target="_blank">주요 예제로 배우는 LLM 어플리케이션 응용 기술</a>**
+    
 
 
 
