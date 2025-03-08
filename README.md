@@ -26,6 +26,15 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 
 **[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224)** 에서 연구 동향과 최신 인사이트도 공유합니다! 
 
+
+## Featured: Youtube 세미나
+
+[노토랩 변형호 X 테디노트] LLM의 새로운 전환점, Reasoning 모델 이해하기 (Feat. DeepSeek R1)
+
+[![Video Label](https://github.com/user-attachments/assets/d8e77dc7-4e83-4ed7-98ec-fa75cfc127ae)](https://www.youtube.com/watch?v=Z-ELkZ_azYM)
+
+[강의자료 PDF](https://drive.google.com/file/d/1gQDdRkjhrHiEA27eOPPiW6nXzpa3-Hh4/view?usp=sharing)
+
 ## 🎒Courses & Activities
 
 ### 2025
