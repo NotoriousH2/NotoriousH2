@@ -142,11 +142,6 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - **현업 데이터를 활용한 인공지능 프로젝트 <br>**
  
       
-## 💻 Projects
-- [Streamlit을 이용한 프롬프트 엔지니어링 실습- 마케팅 문구 생성 앱](https://notolab.64bit.kr/chat/)
-- RAG(Retrieval-Augmented Generation) 기반의 문학 작품 해석 어플리케이션
-- GPT 3.5 기반의 프로스포츠 데이터 분석 어플리케이션
-- 이외 교육용 LLM 프로젝트 다수 진행
   
 ## 📖 Publication
 
