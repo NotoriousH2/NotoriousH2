@@ -161,9 +161,3 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - PLOS ONE, 2021.<br>
 - Toward efficient dynamic virtual network embedding strategy for cloud networks (공저자)
     - International Journal of Distributed Sensor Networks, 2018.<br>
-
-## Others
-[**KBO-GPT (한국 프로 야구 분석 GPT) - beta**](https://gptstore.ai/gpts/lxQoZl8p-kbo-gpt-hangug-peuro-yagu-bunseog-gpt) <br>
-[직피티 : 직장인을 위한 한국어(Korean) 이메일 & 메신저 & 상담 GPT](https://gptstore.ai/gpts/SkD9xe3_G8-jigpiti-jigjangineul-wihan-hangugeo-korean-gpt)   
-[거의 모든 것의 매뉴얼(Manual for Nearly Everything)](https://gptstore.ai/gpts/tfAenAASH-manuals-for-everything-geoyi-modeun-geosyi-maenyueol)
-
