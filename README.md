@@ -161,3 +161,7 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
     - PLOS ONE, 2021.<br>
 - Toward efficient dynamic virtual network embedding strategy for cloud networks (공저자)
     - International Journal of Distributed Sensor Networks, 2018.<br>
+
+## 🎹 Others
+
+ - [LLM Token Counter](http://notolab.64bit.kr/tokenizer/)
