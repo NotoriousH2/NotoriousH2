@@ -35,6 +35,12 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
 
 [강의자료 PDF](https://drive.google.com/file/d/1gQDdRkjhrHiEA27eOPPiW6nXzpa3-Hh4/view?usp=sharing)
 
+
+[LLM Token Counter](http://notolab.64bit.kr/tokenizer/) : 
+![2](https://github.com/user-attachments/assets/28988cd1-d659-4144-b32e-ce1f849f30a7)
+
+
+
 ## 🎒Courses & Activities
 
 ### 2025
