@@ -57,7 +57,6 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
   - **[<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2025&corsDgrCd=10102)**
     
 
-
 - **패스트캠퍼스 온라인 강의 제작**
     - **[<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph)**
 
@@ -66,6 +65,14 @@ LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법�
   - **[<LLM과 LangChain을 이용한 RAG 어플리케이션 개발>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH1&corsYr=2020&corsDgrCd=10001)**
   - **[<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001)**
   - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
+
+- 삼성전자 AI 교육
+    - **MCP를 이용한 AI 에이전트 개발**
+ 
+- 포항산업기술연구소(RIST) 기술 자문 세션
+    - **업무 혁신을 위한 AI Agent 개발**
+
+- 홍익대학교 
  
 - 삼성전자 AI Essential 과정
     - **AI 트렌드 세미나**
