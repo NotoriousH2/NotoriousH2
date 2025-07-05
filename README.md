@@ -20,11 +20,13 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 - 2016.2 한국과학기술원 전산학부 학사 졸업 (부전공: 수리과학부)
 - 2023.2 서울대학교 컴퓨터공학부 박사 졸업
 <br>
-LLM 파인 튜닝과 어플리케이션/서비스 개발, 성능 향상 방법에 대한 강의를 주로 진행하고 있습니다.      <br>
-일반 AI 전 분야에 대한 강의와 비전공자 대상의 Python 데이터 전처리, 분석 강의도 진행합니다.      <br>
+안녕하세요! 노토랩 대표 변형호입니다.
 
+노토랩은 Agent, 파인 튜닝, RAG, 멀티모달리티와 같이 다양한 LLM의 문제들을 연구하고 해결합니다. <br>
+저는 멀티캠퍼스와 패스트캠퍼스에서 강의도 진행하고 있으며,  <br>
+최신 논문 리뷰 및 세미나, 맞춤형 교육 설계나 개발 자문도 하고 있습니다. <br>
 
-**[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224)** 에서 연구 동향과 최신 인사이트도 공유합니다! 
+**[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224)** 에서 연구 동향과 최신 인사이트도 공유합니다.
 
 
 ## Featured: Youtube 세미나
