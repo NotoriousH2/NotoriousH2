@@ -29,13 +29,31 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 **[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224)** 에서 연구 동향과 최신 인사이트도 공유합니다.
 
 
-## Featured: Youtube 세미나
+## Featured
 
+### 2025.07
+국가보안기술연구소 초청 세미나 "LLM 최신 모델 동향: 추론과 멀티모달" 
+
+<a href="https://drive.google.com/file/d/127f-7tZgekg0czfEz5kHOnc717JVjyp1/view?usp=sharing" target="_blank">
+  <img width="225" height="120" alt="Image" src="https://github.com/user-attachments/assets/9369bd86-c70f-41a8-a990-e018a193609f" />
+</a>
+
+[발표자료](https://drive.google.com/file/d/127f-7tZgekg0czfEz5kHOnc717JVjyp1/view?usp=sharing)
+
+### 2025.06
+패스트캠퍼스X경기도 판교 일할맛 세미나: LLM 개발과 파인 튜닝
+
+https://fastcampus.co.kr/sem_mat_06
+
+### 2025.03
 [노토랩 변형호 X 테디노트] LLM의 새로운 전환점, Reasoning 모델 이해하기 (Feat. DeepSeek R1)
 
 [![Video Label](https://github.com/user-attachments/assets/d8e77dc7-4e83-4ed7-98ec-fa75cfc127ae)](https://www.youtube.com/watch?v=Z-ELkZ_azYM)
 
 [강의자료 PDF](https://drive.google.com/file/d/1gQDdRkjhrHiEA27eOPPiW6nXzpa3-Hh4/view?usp=sharing)
+
+---
+
 
 
 [LLM Token Counter](http://notolab.64bit.kr/tokenizer/)
