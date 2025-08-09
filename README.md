@@ -86,6 +86,9 @@ https://fastcampus.co.kr/sem_mat_06
   - **[<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001)**
   - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
 
+- LG AI Research
+    - **LLM 파인 튜닝 교육 영상 제작**
+      
 - 삼성전자 AI 교육
     - **MCP를 이용한 AI 에이전트 개발**
  
