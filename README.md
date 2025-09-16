@@ -88,6 +88,15 @@ https://fastcampus.co.kr/sem_mat_06
 
 - LG AI Research
     - **LLM 파인 튜닝 교육 영상 제작**
+
+- 현대자동차그룹 연구소
+    - **생성형 AI 실무 과정**
+      
+- 새마을금고중앙회
+    - **LLM 파인 튜닝과 PEFT**
+ 
+- 신한금융그룹
+    - **금융 AI Agent 개발 교육** 
       
 - 삼성전자 AI 교육
     - **MCP를 이용한 AI 에이전트 개발**
