@@ -31,6 +31,27 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 
 ## Featured
 
+### 2025.10
+유튜브 채널 SudoRemove 강의 "Mixture of Experts"
+
+<a href="https://www.youtube.com/watch?v=qpHgHcWxB5I&pp=2AYB" target="_blank">
+  <img width="225" height="120" alt="Image" src="https://github.com/user-attachments/assets/a47527b1-9043-4466-817d-ffbf7db9ef04" />
+</a>
+
+[발표자료](https://bustling-pea-9a9.notion.site/Mixture-of-Experts-MoE-28193e636af1809ca756cbacea186bf6)
+
+
+유튜브 채널 SudoRemove 강의 "Long-Context Attention과 Qwen-3-Next"
+
+<a href="https://www.youtube.com/watch?v=Vu5n6mFMsDQ&pp=2AbfCw%3D%3D" target="_blank">
+  <img width="225" height="120" alt="Image" src="https://github.com/user-attachments/assets/a5f37358-ad93-4b64-992d-3f1e51ad8eac" />
+</a>
+
+[발표자료](https://bustling-pea-9a9.notion.site/Attention-Long-Context-DeltaNet-Mamba2-Qwen-3-Next-28493e636af18003a88ddc39d37cf110)
+
+
+
+
 ### 2025.07
 국가보안기술연구소 초청 세미나 "LLM 최신 모델 동향: 추론과 멀티모달" 
 
