@@ -31,6 +31,17 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 
 ## Featured
 
+### 2026. 1
+유튜브 채널 SudoRemove "DeepSeek Engram 페이퍼 리뷰"
+
+<a href="https://www.youtube.com/watch?v=Xr6oLkClF6w" target="_blank">
+  <img width="225" height="120" alt="Image" src="https://github.com/user-attachments/assets/7782d040-acc8-409f-9aea-65511ac4ce38" />
+</a>
+
+[텍스트 버전(링크드인)](https://www.linkedin.com/feed/update/urn:li:activity:7416984900010090496/)
+
+
+
 ### 2025.10
 유튜브 채널 SudoRemove 강의 "Mixture of Experts"
 
