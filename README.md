@@ -24,7 +24,7 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 
 노토랩은 Agent, 파인 튜닝, RAG, 멀티모달리티와 같이 다양한 LLM의 문제들을 연구하고 해결합니다. <br>
 저는 멀티캠퍼스와 패스트캠퍼스에서 강의도 진행하고 있으며,  <br>
-최신 논문 리뷰 및 세미나, 맞춤형 교육 설계나 개발 자문도 하고 있습니다. <br>
+최신 논문 리뷰 및 세미나, 맞춤형 교육 설계나 개발 자문도 진행합니다. <br>
 
 **[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224)** 에서 연구 동향과 최신 인사이트도 공유합니다.
 
@@ -35,54 +35,56 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 유튜브 채널 SudoRemove "DeepSeek Engram 페이퍼 리뷰"
 
 <a href="https://www.youtube.com/watch?v=Xr6oLkClF6w" target="_blank">
-  <img width="225" height="120" alt="Image" src="https://github.com/user-attachments/assets/7782d040-acc8-409f-9aea-65511ac4ce38" />
+  <img width="320" alt="DeepSeek Engram" src="https://github.com/user-attachments/assets/7782d040-acc8-409f-9aea-65511ac4ce38" />
 </a>
 
 [텍스트 버전(링크드인)](https://www.linkedin.com/feed/update/urn:li:activity:7416984900010090496/)
 
+### 2025
 
-
-### 2025.10
-유튜브 채널 SudoRemove 강의 "Mixture of Experts"
-
-<a href="https://www.youtube.com/watch?v=qpHgHcWxB5I&pp=2AYB" target="_blank">
-  <img width="225" height="120" alt="Image" src="https://github.com/user-attachments/assets/a47527b1-9043-4466-817d-ffbf7db9ef04" />
-</a>
-
-[발표자료](https://bustling-pea-9a9.notion.site/Mixture-of-Experts-MoE-28193e636af1809ca756cbacea186bf6)
-
-
-유튜브 채널 SudoRemove 강의 "Long-Context Attention과 Qwen-3-Next"
-
-<a href="https://www.youtube.com/watch?v=Vu5n6mFMsDQ&pp=2AbfCw%3D%3D" target="_blank">
-  <img width="225" height="120" alt="Image" src="https://github.com/user-attachments/assets/a5f37358-ad93-4b64-992d-3f1e51ad8eac" />
-</a>
-
-[발표자료](https://bustling-pea-9a9.notion.site/Attention-Long-Context-DeltaNet-Mamba2-Qwen-3-Next-28493e636af18003a88ddc39d37cf110)
-
-
-
-
-### 2025.07
-국가보안기술연구소 초청 세미나 "LLM 최신 모델 동향: 추론과 멀티모달" 
-
-<a href="https://drive.google.com/file/d/127f-7tZgekg0czfEz5kHOnc717JVjyp1/view?usp=sharing" target="_blank">
-  <img width="225" height="120" alt="Image" src="https://github.com/user-attachments/assets/9369bd86-c70f-41a8-a990-e018a193609f" />
-</a>
-
-[발표자료](https://drive.google.com/file/d/127f-7tZgekg0czfEz5kHOnc717JVjyp1/view?usp=sharing)
-
-### 2025.06
-패스트캠퍼스X경기도 판교 일할맛 세미나: LLM 개발과 파인 튜닝
-
-https://fastcampus.co.kr/sem_mat_06
-
-### 2025.03
-[노토랩 변형호 X 테디노트] LLM의 새로운 전환점, Reasoning 모델 이해하기 (Feat. DeepSeek R1)
-
-[![Video Label](https://github.com/user-attachments/assets/d8e77dc7-4e83-4ed7-98ec-fa75cfc127ae)](https://www.youtube.com/watch?v=Z-ELkZ_azYM)
-
-[강의자료 PDF](https://drive.google.com/file/d/1gQDdRkjhrHiEA27eOPPiW6nXzpa3-Hh4/view?usp=sharing)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/watch?v=qpHgHcWxB5I&pp=2AYB" target="_blank">
+        <img width="280" alt="MoE" src="https://github.com/user-attachments/assets/a47527b1-9043-4466-817d-ffbf7db9ef04" />
+      </a>
+      <br><b>Mixture of Experts</b>
+      <br><sub>유튜브 SudoRemove | <a href="https://bustling-pea-9a9.notion.site/Mixture-of-Experts-MoE-28193e636af1809ca756cbacea186bf6">발표자료</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/watch?v=Vu5n6mFMsDQ&pp=2AbfCw%3D%3D" target="_blank">
+        <img width="280" alt="Long-Context Attention" src="https://github.com/user-attachments/assets/a5f37358-ad93-4b64-992d-3f1e51ad8eac" />
+      </a>
+      <br><b>Long-Context Attention과 Qwen-3-Next</b>
+      <br><sub>유튜브 SudoRemove | <a href="https://bustling-pea-9a9.notion.site/Attention-Long-Context-DeltaNet-Mamba2-Qwen-3-Next-28493e636af18003a88ddc39d37cf110">발표자료</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/127f-7tZgekg0czfEz5kHOnc717JVjyp1/view?usp=sharing" target="_blank">
+        <img width="280" alt="국보연 세미나" src="https://github.com/user-attachments/assets/9369bd86-c70f-41a8-a990-e018a193609f" />
+      </a>
+      <br><b>LLM 최신 모델 동향: 추론과 멀티모달</b>
+      <br><sub>국가보안기술연구소 초청 세미나 | <a href="https://drive.google.com/file/d/127f-7tZgekg0czfEz5kHOnc717JVjyp1/view?usp=sharing">발표자료</a></sub>
+    </td>
+    <td align="center">
+      <a href="https://fastcampus.co.kr/sem_mat_06" target="_blank">
+        <img width="280" alt="패스트캠퍼스" src="./ill.png" />
+      </a>
+      <br><b>LLM 개발과 파인 튜닝</b>
+      <br><sub>패스트캠퍼스 X 경기도 판교 일할맛 세미나 | <a href="https://fastcampus.co.kr/sem_mat_06">상세페이지</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://www.youtube.com/watch?v=Z-ELkZ_azYM" target="_blank">
+        <img width="280" alt="테디노트" src="https://github.com/user-attachments/assets/d8e77dc7-4e83-4ed7-98ec-fa75cfc127ae" />
+      </a>
+      <br><b>LLM의 새로운 전환점, Reasoning 모델 이해하기 (Feat. DeepSeek R1)</b>
+      <br><sub>노토랩 변형호 X 테디노트 | <a href="https://drive.google.com/file/d/1gQDdRkjhrHiEA27eOPPiW6nXzpa3-Hh4/view?usp=sharing">강의자료 PDF</a></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -160,14 +162,16 @@ https://fastcampus.co.kr/sem_mat_06
     - **Retrieval Augmented Generation (RAG)**
       
 
-### 2024
+<details>
+<summary><b>2024</b></summary>
+
 - 국가보안기술연구소 LLM 개발 기술 자문
     - **Agentic Work 자동화 프로젝트**
 
 - 국가보안기술연구소 LLM 교육
     - **Large Language Model과 보안**
 
-- KT AI 연구소 세미나    
+- KT AI 연구소 세미나
     - **2024 ACL Conference 리뷰 및 Hands-on Session**
     - **2024 Microsoft AI Research 리뷰 및 Hands-on Session**
 
@@ -175,7 +179,7 @@ https://fastcampus.co.kr/sem_mat_06
     - **OpenAI API와 Assistant 활용법<br>**
     - **LangChain과 LCEL(LangChain Expression Language) 개발**
 
-- 한전KDN LLM/AI 교육 
+- 한전KDN LLM/AI 교육
     - **프롬프트 엔지니어링과 OpenAI API**
     - **LangChain을 이용한 어플리케이션 만들기**
     - **멀티모달 모델 이해하기**
@@ -187,20 +191,20 @@ https://fastcampus.co.kr/sem_mat_06
 - 신한금융투자 - 생성형 AI 모델 R&D 기반 구성 수행 강의 <br>
     - **금융 데이터 파인 튜닝 LLM<br>**
     - **생성AI 기반 마케팅 문구 생성 및 영상 요약 어플리케이션<br>**
-      
+
 
 - GS그룹 LLM 프로그래밍 심화 교육
     - **LLM 파인튜닝 및 sLLM 개발<br>**
     - **RAG 성능 고도화 방법**
     - **효과적인 LLM 어플리케이션 서빙하기**
 
-  
-- 아주대학교 ChatGPT 활용 교육  
-- 신세계디에프 생성형AI 활용 교육 
-- 한국앤컴퍼니 생성형AI 활용 교육 
+
+- 아주대학교 ChatGPT 활용 교육
+- 신세계디에프 생성형AI 활용 교육
+- 한국앤컴퍼니 생성형AI 활용 교육
 
 - HL그룹 생성형AI 활용 교육
-  
+
 
 - 삼성전자 신입사원 Digital Transformation 교육 (2024.03-2024.04)
     - **Python을 이용한 데이터분석 및 시각화**
@@ -211,8 +215,10 @@ https://fastcampus.co.kr/sem_mat_06
     - 프로젝트 과제 개발 자문
 - 현대엘리베이터 LLM 세미나 'AI와 IT 기술 트렌드'
 
---- 
-### 2023
+</details>
+
+<details>
+<summary><b>2023</b></summary>
 
 - HD현대 : 과학기술정보통신부-정보통신산업진흥원 주관 산업전문인력 AI 역량 강화 사업 강의(2023)
     - **거대 언어 생성 모델(LLM)을 활용한 현장 매뉴얼 가이드 챗봇 <br>**
@@ -228,10 +234,13 @@ https://fastcampus.co.kr/sem_mat_06
     - **머신러닝/ 딥러닝 기초**
     - **ChatGPT를 활용한 업무 생산성 향상**
     - **현업 데이터를 활용한 인공지능 프로젝트 <br>**
+
+</details>
  
       
   
-## 📖 Publication
+<details>
+<summary><b>📖 Publication</b></summary>
 
 - Aspect-Oriented Unsupervised Social Link Inference on User Trajectory (주저자)
     - Elsevier Information Sciences, 2023. <br>
@@ -249,6 +258,8 @@ https://fastcampus.co.kr/sem_mat_06
     - PLOS ONE, 2021.<br>
 - Toward efficient dynamic virtual network embedding strategy for cloud networks (공저자)
     - International Journal of Distributed Sensor Networks, 2018.<br>
+
+</details>
 
 ## 🎹 Others
 
