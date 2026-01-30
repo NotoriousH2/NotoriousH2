@@ -114,7 +114,7 @@ https://fastcampus.co.kr/sem_mat_06
     - **LangChain을 이용한 Workflow 구성**
     - **Retrieval Augmented Generation (RAG)**
     - **LangChain Agent 개발**
-    - 
+      
 - 삼성전자 AI 교육 (2025~)
     - **MCP를 이용한 AI 에이전트 개발**
       
@@ -129,7 +129,7 @@ https://fastcampus.co.kr/sem_mat_06
 
 - **패스트캠퍼스 온라인 강의 제작**
     - **[<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph)**
-    - 
+      
 - LG AI Research
     - **LLM 파인 튜닝 교육 영상 제작**
     - **EXAONE 파인 튜닝 오프라인 교육**
