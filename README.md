@@ -95,31 +95,44 @@ https://fastcampus.co.kr/sem_mat_06
 
 ## 🎒Courses & Activities
 
-### 2025
-
+### 2026
 - **멀티캠퍼스 AI/자연어처리 오프라인 강의**
+  - **[<1Day 생성형 AI와 LLM의 이해>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KS)**
+
   - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 SFT, PEFT까지>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KP)**
-
   - **[<LLM 파인튜닝 마스터, sLLM 기반의 어플리케이션 만들기>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KQ)**
-
-  - **[<LLM 마스터, LangGraph와 MCP로 AI Agent 개발하기>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KW)**
-
-  - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2025&corsDgrCd=10104)**
-
-  - **[<주요 예제로 배우는 LLM 어플리케이션 응용 기술>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA0179&corsYr=2025&corsDgrCd=10102)**
+  - **[<LLM 파인튜닝 마스터, 주요 예제로 배우는 LLM 응용 기술>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KR)**
     
-
-- **패스트캠퍼스 온라인 강의 제작**
-    - **[<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph)**
-
+  - **[<LLM 마스터, LangGraph와 MCP로 AI Agent 개발하기>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KW)**
 
 - **멀티캠퍼스 이러닝 강의 제작**
   - **[<LLM과 LangChain을 이용한 RAG 어플리케이션 개발>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH1&corsYr=2020&corsDgrCd=10001)**
   - **[<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001)**
   - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
 
+- 삼성SDS - RAG 개발 심화 강의 (2025~)  <br>
+    - **LangChain을 이용한 Workflow 구성**
+    - **Retrieval Augmented Generation (RAG)**
+    - **LangChain Agent 개발**
+    - 
+- 삼성전자 AI 교육 (2025~)
+    - **MCP를 이용한 AI 에이전트 개발**
+      
+- 신한라이프 - LLM Agent 개발 강의
+    - LLM API 기반 어플리케이션
+    - LangChain과 Agent를 이용한 에이전트
+    - Model Context Protocol
+    - LangChain 1.0의 Agent 구조와 Multi Agent
+    - Deep Agent
+
+### 2025
+
+- **패스트캠퍼스 온라인 강의 제작**
+    - **[<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph)**
+    - 
 - LG AI Research
     - **LLM 파인 튜닝 교육 영상 제작**
+    - **EXAONE 파인 튜닝 오프라인 교육**
 
 - 현대자동차그룹 연구소
     - **생성형 AI 실무 과정**
