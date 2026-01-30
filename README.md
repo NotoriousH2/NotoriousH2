@@ -1,16 +1,10 @@
-# 변형호(Hyungho Byun) 
-
-
+# 변형호(Hyungho Byun)
 
 ![](https://komarev.com/ghpvc/?username=NotoriousH2)
 
-
-Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
-
-
-
-[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224/)
-
+[![Email](https://img.shields.io/badge/Email-NotoriousH2%40snu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:NotoriousH2@snu.ac.kr)
+[![Email](https://img.shields.io/badge/Email-notolab.ceo%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:notolab.ceo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyungho-byun-6b2588224/)
 
 **생성 AI의 최신 트렌드, 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
 
@@ -25,8 +19,7 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 노토랩은 Agent, 파인 튜닝, RAG, 멀티모달리티와 같이 다양한 LLM의 문제들을 연구하고 해결합니다. <br>
 저는 멀티캠퍼스와 패스트캠퍼스에서 강의도 진행하고 있으며,  <br>
 최신 논문 리뷰 및 세미나, 맞춤형 교육 설계나 개발 자문도 진행합니다. <br>
-
-**[Linkedin](https://www.linkedin.com/in/hyungho-byun-6b2588224)** 에서 연구 동향과 최신 인사이트도 공유합니다.
+LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
 
 
 ## Featured
@@ -87,13 +80,6 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 </table>
 
 ---
-
-
-
-[LLM Token Counter](http://notolab.64bit.kr/tokenizer/)
-![2](https://github.com/user-attachments/assets/28988cd1-d659-4144-b32e-ce1f849f30a7)
-
-
 
 ## 🎒Courses & Activities
 
@@ -261,6 +247,7 @@ Business Inquiry: NotoriousH2@snu.ac.kr, notolab.ceo@gmail.com
 
 </details>
 
-## 🎹 Others
+## 🛠️ Tools
 
- - [LLM Token Counter](http://notolab.64bit.kr/tokenizer/)
+[![LLM Token Counter](https://img.shields.io/badge/LLM_Token_Counter-Try_it-4285F4?logo=google-chrome&logoColor=white)](http://notolab.64bit.kr/tokenizer/)
+[![LLM Token Visualizer](https://img.shields.io/badge/LLM_Token_Visualizer-GitHub-181717?logo=github&logoColor=white)](https://github.com/NotoriousH2/llm_token_visualizer)
