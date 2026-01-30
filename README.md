@@ -102,7 +102,7 @@ https://fastcampus.co.kr/sem_mat_06
 
   - **[<LLM 파인튜닝 마스터, sLLM 기반의 어플리케이션 만들기>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KQ)**
 
-  - **[<LLM 마스터, LangGraph로 AI Agent 개발하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA01BG&corsYr=2025&corsDgrCd=10101)**
+  - **[<LLM 마스터, LangGraph와 MCP로 AI Agent 개발하기>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KW)**
 
   - **[<1Day LMM(Large Multimodal Model) 이해하기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA013U&corsYr=2025&corsDgrCd=10104)**
 
