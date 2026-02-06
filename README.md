@@ -251,3 +251,4 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
 
 [![LLM Token Counter](https://img.shields.io/badge/LLM_Token_Counter-Try_it-4285F4?logo=google-chrome&logoColor=white)](http://notolab.64bit.kr/tokenizer/)
 [![LLM Token Visualizer](https://img.shields.io/badge/LLM_Token_Visualizer-GitHub-181717?logo=github&logoColor=white)](https://github.com/NotoriousH2/llm_token_visualizer)
+[![ArXiv PDF Renamer](https://img.shields.io/badge/ArXiv_PDF_Renamer-GitHub-181717?logo=github&logoColor=white)](https://github.com/NotoriousH2/arxiv-pdf-renamer)
