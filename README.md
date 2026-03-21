@@ -103,9 +103,11 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
     - **Retrieval Augmented Generation (RAG)**
     - **LangChain Agent 개발**
       
-- 삼성전자 AI 교육 (2025~)
-    - **MCP를 이용한 AI 에이전트 개발**
+- 삼성전자 **'MCP를 이용한 AI 에이전트 개발'** (2025~)
+- 삼성전자 **'AI Agent의 성능 평가와 검증'**
       
+- LG CNS - AI Agent 개발 강의
+
 - 신한라이프 - LLM Agent 개발 강의
     - LLM API 기반 어플리케이션
     - LangChain과 Agent를 이용한 에이전트
