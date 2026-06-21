@@ -84,7 +84,7 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
 ## 🎒Courses & Activities
 
 ### 2026
-- **멀티캠퍼스 AI/자연어처리 오프라인 강의**
+- 멀티캠퍼스 AI/자연어처리 오프라인 강의
   - **[<1Day 생성형 AI와 LLM의 이해>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KS)**
 
   - **[<LLM 파인튜닝 마스터, 생성형 AI 기초부터 SFT, PEFT까지>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KP)**
@@ -93,23 +93,23 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
     
   - **[<LLM 마스터, LangGraph와 MCP로 AI Agent 개발하기>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KW)**
 
-- **멀티캠퍼스 이러닝 강의 제작**
+- 멀티캠퍼스 이러닝 강의 제작
   - **[<LLM과 LangChain을 이용한 RAG 어플리케이션 개발>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH1&corsYr=2020&corsDgrCd=10001)**
   - **[<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001)**
   - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
 
-- 현대모비스 - **LLM 프로젝트 특화 교육**
+- 현대모비스 - LLM 프로젝트 특화 교육
     - **LLM 파인 튜닝: CPT, IT, DPO, GRPO, Tool Calling 특화 파인튜닝**
     - **Context Engineering: RAG, Agent, MCP, Memory, Skills**
     - **LLM 평가와 최적화: LangFuse를 이용한 Tracing/Evaluation/Tracking**
     - **LLM In-Depth Knowledge**
 
-- LG EXAONE - **파인 튜닝 교육**
+- LG EXAONE - 파인 튜닝 교육
     - **Agent를 위한 합성 데이터 생성**
     - **Agent 특화 PEFT 파인튜닝**
     - **GRPO를 통한 Agent 성능 향상**
 
-- SK 그룹 역량강화교육 - **파인튜닝 강의**
+- SK 그룹 역량강화교육 - 파인튜닝 강의
     - **Ollama와 vLLM을 이용한 오픈 LLM 서빙 및 고속 추론**
     - **HuggingFace 공개 모델 로딩과 파인 튜닝을 위한 합성 데이터 생성**
     - **Continuous Pretraining(CPT)을 통한 도메인 지식 주입과 도메인 코퍼스 구성**
@@ -121,8 +121,8 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
     - **Retrieval Augmented Generation (RAG)**
     - **LangChain Agent 개발**
       
-- 삼성전자 **'MCP를 이용한 AI 에이전트 개발'** (2025~)
-- 삼성전자 **'AI Agent의 성능 평가와 검증'**
+- 삼성전자 'MCP를 이용한 AI 에이전트 개발' (2025~)
+- 삼성전자 'AI Agent의 성능 평가와 검증'
       
 - LG CNS - AI Agent 개발 강의
     - AI Agent 기본
@@ -139,7 +139,7 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
 
 ### 2025
 
-- **패스트캠퍼스 온라인 강의 제작**
+- 패스트캠퍼스 온라인 강의 제작
     - **[<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph)**
       
 - LG AI Research
