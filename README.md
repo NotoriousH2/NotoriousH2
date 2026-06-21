@@ -111,6 +111,12 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
     - **Instruction Data, LoRA, Rejection Sampling + SFT, DPO 기반 모델 성능 향상**
     - **LLM Tool Calling, LangChain Agent, Tool Calling 데이터 생성 및 Agent 특화 파인 튜닝**
 
+- 삼성SDS 온라인 강의 제작 - LLM Agent 실전 마스터
+    - **LLM Agent를 이용한 Workflow 설계**
+    - **Claude Code를 이용한 Agent 개발**
+    - **다양한 Agent Orchestration Framework 소개**
+    - **Agent 고도화 기술: Context Engineering, Long-Term Memory, Agent Skills**
+
 - 삼성SDS - RAG 개발 심화 강의 (2025~)  <br>
     - **LangChain을 이용한 Workflow 구성**
     - **Retrieval Augmented Generation (RAG)**
