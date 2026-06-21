@@ -101,7 +101,7 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
 - 현대모비스 - **LLM 프로젝트 특화 교육**
     - **LLM 파인 튜닝: CPT, IT, DPO, GRPO, Tool Calling 특화 파인튜닝**
     - **Context Engineering: RAG, Agent, MCP, Memory, Skills**
-    - **LLM 평가와 최적화**
+    - **LLM 평가와 최적화: LangFuse를 이용한 Tracing/Evaluation/Tracking**
     - **LLM In-Depth Knowledge**
 
 - LG EXAONE - **파인 튜닝 교육**
