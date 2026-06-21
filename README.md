@@ -107,6 +107,10 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
 - 삼성전자 **'AI Agent의 성능 평가와 검증'**
       
 - LG CNS - AI Agent 개발 강의
+    - AI Agent 기본
+    - Context Engineering
+    - Agent Memory
+    - Agent Skill
 
 - LG EXAONE - 파인 튜닝 교육
     - Agent를 위한 합성 데이터 생성
