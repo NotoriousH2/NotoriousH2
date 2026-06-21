@@ -93,11 +93,6 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
     
   - **[<LLM 마스터, LangGraph와 MCP로 AI Agent 개발하기>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KW)**
 
-- 멀티캠퍼스 이러닝 강의 제작
-  - **[<LLM과 LangChain을 이용한 RAG 어플리케이션 개발>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH1&corsYr=2020&corsDgrCd=10001)**
-  - **[<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001)**
-  - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
-
 - 현대모비스 - LLM 프로젝트 특화 교육
     - **LLM 파인 튜닝: CPT, IT, DPO, GRPO, Tool Calling 특화 파인튜닝**
     - **Context Engineering: RAG, Agent, MCP, Memory, Skills**
@@ -138,6 +133,11 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
     - Deep Agent
 
 ### 2025
+
+- 멀티캠퍼스 이러닝 강의 제작
+  - **[<LLM과 LangChain을 이용한 RAG 어플리케이션 개발>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH1&corsYr=2020&corsDgrCd=10001)**
+  - **[<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001)**
+  - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
 
 - 패스트캠퍼스 온라인 강의 제작
     - **[<랭그래프로 한번에 완성하는 복잡한 RAG와 Agent>](https://fastcampus.co.kr/data_online_langgraph)**
