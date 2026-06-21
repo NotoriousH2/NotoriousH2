@@ -98,6 +98,24 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
   - **[<LLM 파인 튜닝과 PEFT>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH2&corsYr=2020&corsDgrCd=10001)**
   - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
 
+- 현대모비스 - **LLM 프로젝트 특화 교육**
+    - **LLM 파인 튜닝**
+    - **LLM Context Engineering**
+    - **LLM 평가와 최적화**
+    - **LLM In-Depth Knowledge**
+
+- LG EXAONE - **파인 튜닝 교육**
+    - **Agent를 위한 합성 데이터 생성**
+    - **Agent 특화 PEFT 파인튜닝**
+    - **GRPO를 통한 Agent 성능 향상**
+
+- SK 그룹 역량강화교육 - **파인튜닝 강의**
+    - **Ollama와 vLLM을 이용한 오픈 LLM 서빙 및 고속 추론**
+    - **HuggingFace 공개 모델 로딩과 파인 튜닝을 위한 합성 데이터 생성**
+    - **Continuous Pretraining(CPT)을 통한 도메인 지식 주입과 도메인 코퍼스 구성**
+    - **Instruction Data, LoRA, Rejection Sampling + SFT, DPO 기반 모델 성능 향상**
+    - **LLM Tool Calling, LangChain Agent, Tool Calling 데이터 생성 및 Agent 특화 파인 튜닝**
+
 - 삼성SDS - RAG 개발 심화 강의 (2025~)  <br>
     - **LangChain을 이용한 Workflow 구성**
     - **Retrieval Augmented Generation (RAG)**
@@ -111,11 +129,6 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
     - Context Engineering
     - Agent Memory
     - Agent Skill
-
-- LG EXAONE - 파인 튜닝 교육
-    - Agent를 위한 합성 데이터 생성
-    - Agent 특화 PEFT 파인튜닝
-    - GRPO를 통한 Agent 성능 향상
 
 - 신한라이프 - LLM Agent 개발 강의
     - LLM API 기반 어플리케이션
