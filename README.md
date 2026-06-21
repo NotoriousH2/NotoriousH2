@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-notolab.ceo%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:notolab.ceo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyungho-byun-6b2588224/)
 
-**생성 AI의 최신 트렌드, 인사이트와 기술 활용 방법을 깊이 있게 전달합니다.**
+**AI Agent, LLM 파인 튜닝, RAG, Context Engineering까지 생성 AI를 실무에 적용하는 방법을 깊이 있게 전달합니다.**
 
 ## 📘 Bio
 
