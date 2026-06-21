@@ -99,8 +99,8 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
   - **[<LLM 파인 튜닝과 sLLM 만들기>](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=EA0DH3&corsYr=2020&corsDgrCd=10001)**
 
 - 현대모비스 - **LLM 프로젝트 특화 교육**
-    - **LLM 파인 튜닝**
-    - **LLM Context Engineering**
+    - **LLM 파인 튜닝: CPT, IT, DPO, GRPO, Tool Calling 특화 파인튜닝**
+    - **Context Engineering: RAG, Agent, MCP, Memory, Skills**
     - **LLM 평가와 최적화**
     - **LLM In-Depth Knowledge**
 
