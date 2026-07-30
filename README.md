@@ -93,6 +93,9 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
     
   - **[<LLM 마스터, LangGraph와 MCP로 AI Agent 개발하기>](https://m.multicampus.com/course/crsDetail?corsCd=FA01KW)**
 
+- 삼성전자-서울대 AI Expert 과정 교육
+    - **LangChain을 이용한 에이전트 하네스 개발**
+
 - 현대모비스 - LLM 프로젝트 특화 교육
     - **LLM 파인 튜닝: CPT, IT, DPO, GRPO, Tool Calling 특화 파인튜닝**
     - **Context Engineering: RAG, Agent, MCP, Memory, Skills**
