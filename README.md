@@ -46,13 +46,18 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
 </table>
 
 ### 2026. 1
-유튜브 채널 SudoRemove "DeepSeek Engram 페이퍼 리뷰"
 
-<a href="https://www.youtube.com/watch?v=Xr6oLkClF6w" target="_blank">
-  <img width="320" alt="DeepSeek Engram" src="https://github.com/user-attachments/assets/7782d040-acc8-409f-9aea-65511ac4ce38" />
-</a>
-
-[텍스트 버전(링크드인)](https://www.linkedin.com/feed/update/urn:li:activity:7416984900010090496/)
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://www.youtube.com/watch?v=Xr6oLkClF6w" target="_blank">
+        <img width="280" alt="DeepSeek Engram" src="https://github.com/user-attachments/assets/7782d040-acc8-409f-9aea-65511ac4ce38" />
+      </a>
+      <br><b>DeepSeek Engram 페이퍼 리뷰</b>
+      <br><sub>유튜브 SudoRemove | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7416984900010090496/">텍스트 버전</a></sub>
+    </td>
+  </tr>
+</table>
 
 ### 2025
 
