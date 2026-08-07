@@ -24,6 +24,13 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
 
 ## Featured
 
+### 2026. 8
+유튜브 채널 SudoRemove "하네스/루프/그래프 엔지니어링, 순서대로 이해하기"
+
+<a href="https://www.youtube.com/watch?v=lokHQ8_b5Rk" target="_blank">
+  <img width="320" alt="하네스/루프/그래프 엔지니어링" src="./grapheng.png" />
+</a>
+
 ### 2026. 1
 유튜브 채널 SudoRemove "DeepSeek Engram 페이퍼 리뷰"
 
