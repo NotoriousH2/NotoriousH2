@@ -30,7 +30,7 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
   <tr>
     <td align="center" colspan="2">
       <a href="https://www.youtube.com/watch?v=njM0LT4s6_0" target="_blank">
-        <img width="280" alt="Kimi K3" src="./kimi_k3.png" />
+        <img width="640" alt="Kimi K3" src="./kimi_k3.png" />
       </a>
       <br><b>Moonshot AI Kimi K3 모델 리뷰</b>
       <br><sub>유튜브 SudoRemove | <a href="https://drive.google.com/file/d/1WcWrXhhdhPteDfdHyAOJzqZm-YzFiDlO/view">발표자료</a></sub>
@@ -39,7 +39,7 @@ LinkedIn에서 연구 동향과 최신 인사이트도 공유합니다.
   <tr>
     <td align="center" colspan="2">
       <a href="https://www.youtube.com/watch?v=lokHQ8_b5Rk" target="_blank">
-        <img width="280" alt="하네스/루프/그래프 엔지니어링" src="./grapheng.png" />
+        <img width="640" alt="하네스/루프/그래프 엔지니어링" src="./grapheng.png" />
       </a>
       <br><b>하네스/루프/그래프 엔지니어링, 순서대로 이해하기</b>
       <br><sub>유튜브 SudoRemove | <a href="https://bustling-pea-9a9.notion.site/3b093e636af1801f84c8f97785a7704b">발표자료</a></sub>
